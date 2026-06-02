@@ -67,13 +67,13 @@ Genshred Impact 是一款 AI 驱动的浏览器扩展，它会自动识别你正
 
 ### 自动改写
 
-![[./docs/screenshots/自动改写.gif]]
 
-![[./docs/screenshots/论文阅读.gif]]
+![自动改写](./docs/screenshots/自动改写.gif)
+![论文阅读](./docs/screenshots/论文阅读.gif)
 
 ### 手动改写
 
-![[./docs/screenshots/手动2.gif]]
+![手动改写](./docs/screenshots/手动2.gif)
 
 </div>
 
